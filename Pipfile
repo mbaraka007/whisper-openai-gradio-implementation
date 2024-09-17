@@ -1,4 +1,4 @@
 [packages]
-whisper = {git = "https://github.com/openai/whisper.git"}
+whisper = {git = "https://github.com/mbaraka007/whisper.git"}
 gradio = "*"
 ffmpeg-python = "*"
