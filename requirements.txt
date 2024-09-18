@@ -76,4 +76,5 @@ uc-micro-py==1.0.2
 urllib3==2.0.2
 uvicorn==0.22.0
 websockets==11.0.3
-whisper @ git+https://github.com/mbaraka007/whisper.git@5c8bbfadf5def3df6b294bec1de3cac29bc8588e
+git+https://github.com/mbaraka007/whisper.git@5c8bbfadf5def3df6b294bec1de3cac29bc8588e
+yarl==1.9.2
