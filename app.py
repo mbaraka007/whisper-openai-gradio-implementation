@@ -1,7 +1,7 @@
 import whisper
 
 # You can choose your model from - see it on readme file and update the modelname
-modelname = "large"
+modelname = "tiny"
 model = whisper.load_model(modelname)
 
 import gradio as gr 
